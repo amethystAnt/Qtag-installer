@@ -2,7 +2,9 @@
 <Installer>
     <Name>Qtag</Name>
     <Version>0.1-1</Version>
-    <Title>Qtag Installer</Title>
+    <Title>Qtag</Title>
     <StartMenuDir>Qtag</StartMenuDir>
     <TargetDir>@HomeDir@/Qtag</TargetDir>
+    <InstallerWindowIcon>Qtag.png</InstallerWindowIcon>
+    <InstallerApplicationIcon>Qtag</InstallerApplicationIcon>
 </Installer>
