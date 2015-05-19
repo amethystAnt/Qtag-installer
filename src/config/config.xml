@@ -4,6 +4,7 @@
     <Version>0.1-1</Version>
     <Title>Qtag</Title>
     <StartMenuDir>Qtag</StartMenuDir>
+    <RunProgram>@TargetDir@/Qtag.exe</RunProgram>
     <TargetDir>@HomeDir@/Qtag</TargetDir>
     <InstallerWindowIcon>Qtag.png</InstallerWindowIcon>
     <InstallerApplicationIcon>Qtag</InstallerApplicationIcon>
