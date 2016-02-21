@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package>
     <DisplayName>Qtag</DisplayName>
-    <Version>0.1.1</Version>
-    <ReleaseDate>2015-06-22</ReleaseDate>
+    <Version>0.1.2</Version>
+    <ReleaseDate>2016-02-17</ReleaseDate>
     <Licenses>
-        <License name="Mozilla Public License 2.0" file="LICENSE_MPL" />
+        <License name="GNU General Public License 2.0" file="LICENSE_GPL" />
     </Licenses>
     <Script>script.qs</Script>
     <Default>true</Default>

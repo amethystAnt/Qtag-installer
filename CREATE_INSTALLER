@@ -1,0 +1,2 @@
+To create the installer, run the following from the root directory of the installer:
+(path to the installer framework)\bin\binarycreator --offline-only -t (path to the installer framework)\bin\installerbase.exe -p src\packages -c src\config\config.xml Qtag-installer.exe
