@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package>
     <DisplayName>Qtag</DisplayName>
-    <Version>0.1.2</Version>
-    <ReleaseDate>2016-02-17</ReleaseDate>
+    <Version>0.2</Version>
+    <ReleaseDate>2016-03-14</ReleaseDate>
     <Licenses>
         <License name="GNU General Public License 2.0" file="LICENSE_GPL" />
     </Licenses>
